@@ -1,16 +1,13 @@
-# marksheet
+![1](https://github.com/KirtanNarola13/marksheet/assets/133342879/fbefb06b-18c0-4e61-8630-b416d21849c3)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/KirtanNarola13/marksheet/assets/133342879/2af1ba20-c71b-4844-839e-e1dd23648f67)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/KirtanNarola13/marksheet/assets/133342879/21132b67-92e6-4050-a02e-e6cc2a88f68f)
+
+
+
+![4](https://github.com/KirtanNarola13/marksheet/assets/133342879/1b28bed7-dd13-48c9-bc7b-b5ff4011a651)
